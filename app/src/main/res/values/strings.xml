@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Keylogapp</string>
+    <string name="accessibility_service_label">Evil Service</string>
+</resources>
